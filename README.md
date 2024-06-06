@@ -1,0 +1,2 @@
+# ArabicSentimentsAnalysis
+process and render Arabic text correctly, which can be challenging due to the right-to-left directionality and the complex shapes of Arabic letters. To do this, we will use the arabic_reshaper and python-bidi libraries, which can reshape and reorder the Arabic text for proper rendering.
